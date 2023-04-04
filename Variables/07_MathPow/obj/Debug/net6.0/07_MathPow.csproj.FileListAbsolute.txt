@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Variables\07_MathPow\bin\Debug\net6.0\07_MathPow.exe
+E:\Projects\VsProjects\Variables\07_MathPow\bin\Debug\net6.0\07_MathPow.deps.json
+E:\Projects\VsProjects\Variables\07_MathPow\bin\Debug\net6.0\07_MathPow.runtimeconfig.json
+E:\Projects\VsProjects\Variables\07_MathPow\bin\Debug\net6.0\07_MathPow.dll
+E:\Projects\VsProjects\Variables\07_MathPow\bin\Debug\net6.0\07_MathPow.pdb
+E:\Projects\VsProjects\Variables\07_MathPow\obj\Debug\net6.0\07_MathPow.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Variables\07_MathPow\obj\Debug\net6.0\07_MathPow.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Variables\07_MathPow\obj\Debug\net6.0\07_MathPow.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Variables\07_MathPow\obj\Debug\net6.0\07_MathPow.AssemblyInfo.cs
+E:\Projects\VsProjects\Variables\07_MathPow\obj\Debug\net6.0\07_MathPow.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Variables\07_MathPow\obj\Debug\net6.0\07_MathPow.dll
+E:\Projects\VsProjects\Variables\07_MathPow\obj\Debug\net6.0\refint\07_MathPow.dll
+E:\Projects\VsProjects\Variables\07_MathPow\obj\Debug\net6.0\07_MathPow.pdb
+E:\Projects\VsProjects\Variables\07_MathPow\obj\Debug\net6.0\07_MathPow.genruntimeconfig.cache
+E:\Projects\VsProjects\Variables\07_MathPow\obj\Debug\net6.0\ref\07_MathPow.dll

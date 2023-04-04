@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Variables\02.Variables\bin\Debug\net6.0\02.Variables.exe
+E:\Projects\VsProjects\Variables\02.Variables\bin\Debug\net6.0\02.Variables.deps.json
+E:\Projects\VsProjects\Variables\02.Variables\bin\Debug\net6.0\02.Variables.runtimeconfig.json
+E:\Projects\VsProjects\Variables\02.Variables\bin\Debug\net6.0\02.Variables.dll
+E:\Projects\VsProjects\Variables\02.Variables\bin\Debug\net6.0\02.Variables.pdb
+E:\Projects\VsProjects\Variables\02.Variables\obj\Debug\net6.0\02.Variables.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Variables\02.Variables\obj\Debug\net6.0\02.Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Variables\02.Variables\obj\Debug\net6.0\02.Variables.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Variables\02.Variables\obj\Debug\net6.0\02.Variables.AssemblyInfo.cs
+E:\Projects\VsProjects\Variables\02.Variables\obj\Debug\net6.0\02.Variables.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Variables\02.Variables\obj\Debug\net6.0\02.Variables.dll
+E:\Projects\VsProjects\Variables\02.Variables\obj\Debug\net6.0\refint\02.Variables.dll
+E:\Projects\VsProjects\Variables\02.Variables\obj\Debug\net6.0\02.Variables.pdb
+E:\Projects\VsProjects\Variables\02.Variables\obj\Debug\net6.0\02.Variables.genruntimeconfig.cache
+E:\Projects\VsProjects\Variables\02.Variables\obj\Debug\net6.0\ref\02.Variables.dll

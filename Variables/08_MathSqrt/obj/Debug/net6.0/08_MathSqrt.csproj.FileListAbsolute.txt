@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Variables\08_MathSqrt\bin\Debug\net6.0\08_MathSqrt.exe
+E:\Projects\VsProjects\Variables\08_MathSqrt\bin\Debug\net6.0\08_MathSqrt.deps.json
+E:\Projects\VsProjects\Variables\08_MathSqrt\bin\Debug\net6.0\08_MathSqrt.runtimeconfig.json
+E:\Projects\VsProjects\Variables\08_MathSqrt\bin\Debug\net6.0\08_MathSqrt.dll
+E:\Projects\VsProjects\Variables\08_MathSqrt\bin\Debug\net6.0\08_MathSqrt.pdb
+E:\Projects\VsProjects\Variables\08_MathSqrt\obj\Debug\net6.0\08_MathSqrt.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Variables\08_MathSqrt\obj\Debug\net6.0\08_MathSqrt.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Variables\08_MathSqrt\obj\Debug\net6.0\08_MathSqrt.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Variables\08_MathSqrt\obj\Debug\net6.0\08_MathSqrt.AssemblyInfo.cs
+E:\Projects\VsProjects\Variables\08_MathSqrt\obj\Debug\net6.0\08_MathSqrt.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Variables\08_MathSqrt\obj\Debug\net6.0\08_MathSqrt.dll
+E:\Projects\VsProjects\Variables\08_MathSqrt\obj\Debug\net6.0\refint\08_MathSqrt.dll
+E:\Projects\VsProjects\Variables\08_MathSqrt\obj\Debug\net6.0\08_MathSqrt.pdb
+E:\Projects\VsProjects\Variables\08_MathSqrt\obj\Debug\net6.0\08_MathSqrt.genruntimeconfig.cache
+E:\Projects\VsProjects\Variables\08_MathSqrt\obj\Debug\net6.0\ref\08_MathSqrt.dll

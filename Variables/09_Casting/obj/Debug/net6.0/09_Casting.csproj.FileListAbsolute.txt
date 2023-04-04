@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Variables\09_Casting\obj\Debug\net6.0\09_Casting.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Variables\09_Casting\obj\Debug\net6.0\09_Casting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Variables\09_Casting\obj\Debug\net6.0\09_Casting.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Variables\09_Casting\obj\Debug\net6.0\09_Casting.AssemblyInfo.cs
+E:\Projects\VsProjects\Variables\09_Casting\obj\Debug\net6.0\09_Casting.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Variables\09_Casting\bin\Debug\net6.0\09_Casting.exe
+E:\Projects\VsProjects\Variables\09_Casting\bin\Debug\net6.0\09_Casting.deps.json
+E:\Projects\VsProjects\Variables\09_Casting\bin\Debug\net6.0\09_Casting.runtimeconfig.json
+E:\Projects\VsProjects\Variables\09_Casting\bin\Debug\net6.0\09_Casting.dll
+E:\Projects\VsProjects\Variables\09_Casting\bin\Debug\net6.0\09_Casting.pdb
+E:\Projects\VsProjects\Variables\09_Casting\obj\Debug\net6.0\09_Casting.dll
+E:\Projects\VsProjects\Variables\09_Casting\obj\Debug\net6.0\refint\09_Casting.dll
+E:\Projects\VsProjects\Variables\09_Casting\obj\Debug\net6.0\09_Casting.pdb
+E:\Projects\VsProjects\Variables\09_Casting\obj\Debug\net6.0\09_Casting.genruntimeconfig.cache
+E:\Projects\VsProjects\Variables\09_Casting\obj\Debug\net6.0\ref\09_Casting.dll
