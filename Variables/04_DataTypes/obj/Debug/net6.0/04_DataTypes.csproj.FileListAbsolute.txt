@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson1.Variables\Variables\04_DataTypes\bin\Debug\net6.0\04_DataTypes.exe
+D:\Projects\VS Projects\Lesson1.Variables\Variables\04_DataTypes\bin\Debug\net6.0\04_DataTypes.deps.json
+D:\Projects\VS Projects\Lesson1.Variables\Variables\04_DataTypes\bin\Debug\net6.0\04_DataTypes.runtimeconfig.json
+D:\Projects\VS Projects\Lesson1.Variables\Variables\04_DataTypes\bin\Debug\net6.0\04_DataTypes.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\04_DataTypes\bin\Debug\net6.0\04_DataTypes.pdb
+D:\Projects\VS Projects\Lesson1.Variables\Variables\04_DataTypes\obj\Debug\net6.0\04_DataTypes.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\04_DataTypes\obj\Debug\net6.0\04_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson1.Variables\Variables\04_DataTypes\obj\Debug\net6.0\04_DataTypes.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\04_DataTypes\obj\Debug\net6.0\04_DataTypes.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson1.Variables\Variables\04_DataTypes\obj\Debug\net6.0\04_DataTypes.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\04_DataTypes\obj\Debug\net6.0\04_DataTypes.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\04_DataTypes\obj\Debug\net6.0\refint\04_DataTypes.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\04_DataTypes\obj\Debug\net6.0\04_DataTypes.pdb
+D:\Projects\VS Projects\Lesson1.Variables\Variables\04_DataTypes\obj\Debug\net6.0\04_DataTypes.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\04_DataTypes\obj\Debug\net6.0\ref\04_DataTypes.dll
