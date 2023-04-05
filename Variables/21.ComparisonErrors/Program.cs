@@ -2,7 +2,7 @@
 
 int a = 1;
 float b = 2.0f;
-result = a < b;   // Сравнение значения типа int, со значением типа float - допустимо.
+result = a < b;   // int tipinin float tipi ilə müqayisəsi yolveriləndir.
 
 string c = "Hello";
-//result = c < a; // Сравнение значения типа int, со значением типа string - не допустимо.
+//result = c < a; // int tipinin string tipi ilə müqayisəsi yolverilməzdir.

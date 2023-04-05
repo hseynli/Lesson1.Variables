@@ -1,21 +1,21 @@
-﻿Console.WriteLine("----- Постфиксный инкремент"); // Post-increment
+﻿Console.WriteLine("----- Post-increment");
 
 byte number1 = 0;
-Console.WriteLine(number1++); // Сначала выводим на экран, потом увеличиваем на 1.
+Console.WriteLine(number1++); // Əvvəlcə ekrana çıxarırıq, daha sonra 1 vahid artırırıq.
 Console.WriteLine(number1);
 
-Console.WriteLine("----- Префиксный инкремент"); // Pre-increment
+Console.WriteLine("----- Pre-increment");
 
 byte number2 = 0;
-Console.WriteLine(++number2); // Сначала увеличиваем на 1, потом выводим на экран.
+Console.WriteLine(++number2); // Əvvəlcə bir vahid artırırıq daha sonra ekranda əks etdiririk.
 
-Console.WriteLine("----- Постфиксный декремент"); // Post-decrement
+Console.WriteLine("----- Post-decrement");
 
 sbyte number3 = 0;
-Console.WriteLine(number3--); // Сначала выводим на экран, потом уменьшаем на 1.
+Console.WriteLine(number3--); // Əvvəlcə ekrana çıxarırıq, daha sonra 1 vahid azaldırıq.
 Console.WriteLine(number3);
 
-Console.WriteLine("----- Префиксный декремент"); // Pre-decrement
+Console.WriteLine("----- Pre-decrement");
 
 sbyte number4 = 0;
-Console.WriteLine(--number4); // Сначала уменьшаем на 1, потом выводим на экран.
+Console.WriteLine(--number4); // Əvvəlcə bir vahid azaldırıq daha sonra ekranda əks etdiririk.

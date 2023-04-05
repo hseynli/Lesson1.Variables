@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson1.Variables\Variables\11_IncDec\bin\Debug\net6.0\11_IncDec.exe
+D:\Projects\VS Projects\Lesson1.Variables\Variables\11_IncDec\bin\Debug\net6.0\11_IncDec.deps.json
+D:\Projects\VS Projects\Lesson1.Variables\Variables\11_IncDec\bin\Debug\net6.0\11_IncDec.runtimeconfig.json
+D:\Projects\VS Projects\Lesson1.Variables\Variables\11_IncDec\bin\Debug\net6.0\11_IncDec.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\11_IncDec\bin\Debug\net6.0\11_IncDec.pdb
+D:\Projects\VS Projects\Lesson1.Variables\Variables\11_IncDec\obj\Debug\net6.0\11_IncDec.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\11_IncDec\obj\Debug\net6.0\11_IncDec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson1.Variables\Variables\11_IncDec\obj\Debug\net6.0\11_IncDec.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\11_IncDec\obj\Debug\net6.0\11_IncDec.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson1.Variables\Variables\11_IncDec\obj\Debug\net6.0\11_IncDec.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\11_IncDec\obj\Debug\net6.0\11_IncDec.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\11_IncDec\obj\Debug\net6.0\refint\11_IncDec.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\11_IncDec\obj\Debug\net6.0\11_IncDec.pdb
+D:\Projects\VS Projects\Lesson1.Variables\Variables\11_IncDec\obj\Debug\net6.0\11_IncDec.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\11_IncDec\obj\Debug\net6.0\ref\11_IncDec.dll

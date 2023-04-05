@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson1.Variables\Variables\18_FlagFormatting\bin\Debug\net6.0\18_FlagFormatting.exe
+D:\Projects\VS Projects\Lesson1.Variables\Variables\18_FlagFormatting\bin\Debug\net6.0\18_FlagFormatting.deps.json
+D:\Projects\VS Projects\Lesson1.Variables\Variables\18_FlagFormatting\bin\Debug\net6.0\18_FlagFormatting.runtimeconfig.json
+D:\Projects\VS Projects\Lesson1.Variables\Variables\18_FlagFormatting\bin\Debug\net6.0\18_FlagFormatting.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\18_FlagFormatting\bin\Debug\net6.0\18_FlagFormatting.pdb
+D:\Projects\VS Projects\Lesson1.Variables\Variables\18_FlagFormatting\obj\Debug\net6.0\18_FlagFormatting.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\18_FlagFormatting\obj\Debug\net6.0\18_FlagFormatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson1.Variables\Variables\18_FlagFormatting\obj\Debug\net6.0\18_FlagFormatting.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\18_FlagFormatting\obj\Debug\net6.0\18_FlagFormatting.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson1.Variables\Variables\18_FlagFormatting\obj\Debug\net6.0\18_FlagFormatting.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\18_FlagFormatting\obj\Debug\net6.0\18_FlagFormatting.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\18_FlagFormatting\obj\Debug\net6.0\refint\18_FlagFormatting.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\18_FlagFormatting\obj\Debug\net6.0\18_FlagFormatting.pdb
+D:\Projects\VS Projects\Lesson1.Variables\Variables\18_FlagFormatting\obj\Debug\net6.0\18_FlagFormatting.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\18_FlagFormatting\obj\Debug\net6.0\ref\18_FlagFormatting.dll

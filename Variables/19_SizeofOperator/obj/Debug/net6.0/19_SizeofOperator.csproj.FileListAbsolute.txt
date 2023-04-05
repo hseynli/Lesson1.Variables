@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson1.Variables\Variables\19_SizeofOperator\bin\Debug\net6.0\19_SizeofOperator.exe
+D:\Projects\VS Projects\Lesson1.Variables\Variables\19_SizeofOperator\bin\Debug\net6.0\19_SizeofOperator.deps.json
+D:\Projects\VS Projects\Lesson1.Variables\Variables\19_SizeofOperator\bin\Debug\net6.0\19_SizeofOperator.runtimeconfig.json
+D:\Projects\VS Projects\Lesson1.Variables\Variables\19_SizeofOperator\bin\Debug\net6.0\19_SizeofOperator.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\19_SizeofOperator\bin\Debug\net6.0\19_SizeofOperator.pdb
+D:\Projects\VS Projects\Lesson1.Variables\Variables\19_SizeofOperator\obj\Debug\net6.0\19_SizeofOperator.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\19_SizeofOperator\obj\Debug\net6.0\19_SizeofOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson1.Variables\Variables\19_SizeofOperator\obj\Debug\net6.0\19_SizeofOperator.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\19_SizeofOperator\obj\Debug\net6.0\19_SizeofOperator.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson1.Variables\Variables\19_SizeofOperator\obj\Debug\net6.0\19_SizeofOperator.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\19_SizeofOperator\obj\Debug\net6.0\19_SizeofOperator.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\19_SizeofOperator\obj\Debug\net6.0\refint\19_SizeofOperator.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\19_SizeofOperator\obj\Debug\net6.0\19_SizeofOperator.pdb
+D:\Projects\VS Projects\Lesson1.Variables\Variables\19_SizeofOperator\obj\Debug\net6.0\19_SizeofOperator.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\19_SizeofOperator\obj\Debug\net6.0\ref\19_SizeofOperator.dll

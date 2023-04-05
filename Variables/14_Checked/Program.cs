@@ -1,9 +1,11 @@
 ﻿sbyte a = 127;
 
-// Проверять переполнение.
+//a++;
+
+// Aralığı daşmanın yoxlanılması.
 checked
 {
-    a++; // ОШИБКА уровня компилятора
+    a++; // Kompilyator səviyyəsində xəta
 }
 
 // 127 + 1 = -128

@@ -1,20 +1,20 @@
-﻿// ПРАВИЛО:
-// В коде можно создавать локальные области и в двух разных локальных областях хранить одноименные переменные.
+﻿// QAYDA:
+// Kodda yaradılan lokal sahələrdə eyniadlı dəyişənlər saxlamaq olar.
 
-// Локальная область 1
+// Lokal sahə 1
 {
     int a = 1;
     Console.WriteLine(a);
 }
 
-// Локальная область 2
+// Lokal sahə 2
 {
     int a = 2;
     Console.WriteLine(a);
 }
 
 
-// ПРАВИЛО:
-// Если в коде имеются локальные области, то запрещается хранить одноименные переменные за пределами локальных областей.
+// QAYDA:
+// Əgər kodda lokal sahələrdə varsa onda lokal sahədən kənarda eyni adlı dəyişən yaratmaq olmaz!.
 
-//int a = 3; // ОШИБКА: Переменная с таким именем уже существует в локальной области.
+//int a = 3; // XƏTA: Eyniadlı dəyişən artıq lokal sahədə yaradılıb.

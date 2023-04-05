@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson1.Variables\Variables\17_StringFormat\bin\Debug\net6.0\17_StringFormat.exe
+D:\Projects\VS Projects\Lesson1.Variables\Variables\17_StringFormat\bin\Debug\net6.0\17_StringFormat.deps.json
+D:\Projects\VS Projects\Lesson1.Variables\Variables\17_StringFormat\bin\Debug\net6.0\17_StringFormat.runtimeconfig.json
+D:\Projects\VS Projects\Lesson1.Variables\Variables\17_StringFormat\bin\Debug\net6.0\17_StringFormat.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\17_StringFormat\bin\Debug\net6.0\17_StringFormat.pdb
+D:\Projects\VS Projects\Lesson1.Variables\Variables\17_StringFormat\obj\Debug\net6.0\17_StringFormat.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\17_StringFormat\obj\Debug\net6.0\17_StringFormat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson1.Variables\Variables\17_StringFormat\obj\Debug\net6.0\17_StringFormat.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\17_StringFormat\obj\Debug\net6.0\17_StringFormat.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson1.Variables\Variables\17_StringFormat\obj\Debug\net6.0\17_StringFormat.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\17_StringFormat\obj\Debug\net6.0\17_StringFormat.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\17_StringFormat\obj\Debug\net6.0\refint\17_StringFormat.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\17_StringFormat\obj\Debug\net6.0\17_StringFormat.pdb
+D:\Projects\VS Projects\Lesson1.Variables\Variables\17_StringFormat\obj\Debug\net6.0\17_StringFormat.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\17_StringFormat\obj\Debug\net6.0\ref\17_StringFormat.dll

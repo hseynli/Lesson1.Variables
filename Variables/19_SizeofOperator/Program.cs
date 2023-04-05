@@ -1,7 +1,7 @@
 ﻿int doubleSize = sizeof(double);
-Console.WriteLine("Размер типа double: {0} байт.", doubleSize);
+Console.WriteLine("bayt tipinin olcusu {0}.", doubleSize);
 
-Console.WriteLine("Размер типа int: {0} байт.", sizeof(int));
-Console.WriteLine("Размер типа bool: {0} байт.", sizeof(bool));
-Console.WriteLine("Размер типа long: {0} байт.", sizeof(long));
-Console.WriteLine("Размер типа short: {0} байт.", sizeof(short));
+Console.WriteLine("int tipinin olcusu: {0}.", sizeof(int));
+Console.WriteLine("bool tipinin olcusu: {0}.", sizeof(bool));
+Console.WriteLine("long tipinin olcusu: {0}.", sizeof(long));
+Console.WriteLine("short tipinin olcusu: {0}.", sizeof(short));

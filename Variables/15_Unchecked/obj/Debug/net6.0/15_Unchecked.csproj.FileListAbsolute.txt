@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson1.Variables\Variables\15_Unchecked\bin\Debug\net6.0\15_Unchecked.exe
+D:\Projects\VS Projects\Lesson1.Variables\Variables\15_Unchecked\bin\Debug\net6.0\15_Unchecked.deps.json
+D:\Projects\VS Projects\Lesson1.Variables\Variables\15_Unchecked\bin\Debug\net6.0\15_Unchecked.runtimeconfig.json
+D:\Projects\VS Projects\Lesson1.Variables\Variables\15_Unchecked\bin\Debug\net6.0\15_Unchecked.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\15_Unchecked\bin\Debug\net6.0\15_Unchecked.pdb
+D:\Projects\VS Projects\Lesson1.Variables\Variables\15_Unchecked\obj\Debug\net6.0\15_Unchecked.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\15_Unchecked\obj\Debug\net6.0\15_Unchecked.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson1.Variables\Variables\15_Unchecked\obj\Debug\net6.0\15_Unchecked.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\15_Unchecked\obj\Debug\net6.0\15_Unchecked.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson1.Variables\Variables\15_Unchecked\obj\Debug\net6.0\15_Unchecked.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\15_Unchecked\obj\Debug\net6.0\15_Unchecked.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\15_Unchecked\obj\Debug\net6.0\refint\15_Unchecked.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\15_Unchecked\obj\Debug\net6.0\15_Unchecked.pdb
+D:\Projects\VS Projects\Lesson1.Variables\Variables\15_Unchecked\obj\Debug\net6.0\15_Unchecked.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\15_Unchecked\obj\Debug\net6.0\ref\15_Unchecked.dll

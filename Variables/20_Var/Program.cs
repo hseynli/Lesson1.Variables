@@ -1,13 +1,14 @@
-﻿// Неявно типизированная локальная переменная переменная.
+﻿// var sözü ilə dəyişənlər yarada bilərik.
+// Bu zaman kompilyator dinamik olaraq özü tipi müəyyən edəcəkdir.
 var myVar = 7;
 
 Console.WriteLine(myVar);
 
-// Неявно типизированные локальные переменные не допускают множественного объявления.
+// var sözü ilə eyni zamanda bir neçə dəyişən təyin etmək mümkün deyil.
 // var a = 1, b = 2, c = 3;
 
-// Неявно типизированные локальные переменные должны быть инициализированы.
+// var tipi yaradanda mütləq ona ilkin dəyəri mənimsətmək lazımdır.
 // var a; 
 
-// Константа не может быть неявно типизированная.
+// Konstanta var sözü ilə təyin edilə bilməz.
 // const var myVar = 3.14; 

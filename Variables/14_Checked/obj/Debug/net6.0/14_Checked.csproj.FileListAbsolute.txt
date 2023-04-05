@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson1.Variables\Variables\14_Checked\bin\Debug\net6.0\14_Checked.exe
+D:\Projects\VS Projects\Lesson1.Variables\Variables\14_Checked\bin\Debug\net6.0\14_Checked.deps.json
+D:\Projects\VS Projects\Lesson1.Variables\Variables\14_Checked\bin\Debug\net6.0\14_Checked.runtimeconfig.json
+D:\Projects\VS Projects\Lesson1.Variables\Variables\14_Checked\bin\Debug\net6.0\14_Checked.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\14_Checked\bin\Debug\net6.0\14_Checked.pdb
+D:\Projects\VS Projects\Lesson1.Variables\Variables\14_Checked\obj\Debug\net6.0\14_Checked.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\14_Checked\obj\Debug\net6.0\14_Checked.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson1.Variables\Variables\14_Checked\obj\Debug\net6.0\14_Checked.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\14_Checked\obj\Debug\net6.0\14_Checked.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson1.Variables\Variables\14_Checked\obj\Debug\net6.0\14_Checked.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\14_Checked\obj\Debug\net6.0\14_Checked.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\14_Checked\obj\Debug\net6.0\refint\14_Checked.dll
+D:\Projects\VS Projects\Lesson1.Variables\Variables\14_Checked\obj\Debug\net6.0\14_Checked.pdb
+D:\Projects\VS Projects\Lesson1.Variables\Variables\14_Checked\obj\Debug\net6.0\14_Checked.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson1.Variables\Variables\14_Checked\obj\Debug\net6.0\ref\14_Checked.dll

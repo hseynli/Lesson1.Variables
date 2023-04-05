@@ -1,6 +1,10 @@
 ﻿int a = 1;
-Console.WriteLine("Это число {0}", a);
+Console.WriteLine("a deyisenin deyeri: {0}", a);
 
 int b = 2, c = 3;
-Console.WriteLine("Это числа {0} и {1}", b, c);
-Console.WriteLine("Это числа наоборот {1} и {0}", b, c);
+Console.WriteLine("b={0} ve c={1}", b, c);
+Console.WriteLine("Ve eksi: {1} ve {0}", b, c);
+
+Console.WriteLine(new string('-', 120));
+string whatIsMyName = string.Format("My name is {0}", "Farid");
+Console.WriteLine(whatIsMyName);
